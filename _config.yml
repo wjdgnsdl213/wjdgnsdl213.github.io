@@ -73,7 +73,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "한밭대학교 컴퓨터공학과 2학년"
-sidebar-avatar: https://github.com/Hun.HEIC # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/hun.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
