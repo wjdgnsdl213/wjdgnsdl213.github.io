@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[22.11.14] 알고리즘 문제풀이"
-subtitle: "과일 장수"
+title: "[Algorithm] 과일장수"
+subtitle: "프로그래머스"
 author: "Jeonghun"
 header-style: text
 catalog:      true
