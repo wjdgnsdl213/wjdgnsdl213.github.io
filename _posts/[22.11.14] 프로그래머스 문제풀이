@@ -3,8 +3,8 @@ layout: post
 title: "[22.11.14] 프로그래머스 문제풀이"
 subtitle: "과일 장수"
 author: "Jeonghun"
-header-img: ""
-header-mask: 0.2
+header-style: text
+catalog:      true
 tags:
   - Algorithm
   - Programmers
