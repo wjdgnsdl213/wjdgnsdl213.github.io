@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[22.11.14] 프로그래머스 문제풀이"
+title: "[22.11.14] 알고리즘 문제풀이"
 subtitle: "과일 장수"
 author: "Jeonghun"
 header-style: text
